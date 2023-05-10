@@ -2,3 +2,6 @@ __pycache__/
 *.log
 temp_audio.wav
 AudioCLIP-Full-Training.pt
+*.wav
+*.mp4
+*.avi
