@@ -30,11 +30,11 @@ The yml file for the conda environment can be found [here](https://github.com/Be
 
 ## Paths that should be defined
 
-- Path to video data
-- Path to extracted frames
-- Path to extracted audios
-- Path to foviated frames output
-- Path to final output video with scan path
+- [Path to video data](https://github.com/BetelhemNebebe/Sounds_interesting/blob/a44a80e13822d1f69a287d25e20e636e640b0697/sounds_interesting.py#L191)
+- [Path to extracted frames](https://github.com/BetelhemNebebe/Sounds_interesting/blob/a44a80e13822d1f69a287d25e20e636e640b0697/sounds_interesting.py#L88)
+- [Path to extracted audio](https://github.com/BetelhemNebebe/Sounds_interesting/blob/a44a80e13822d1f69a287d25e20e636e640b0697/sounds_interesting.py#L128)
+- [Path to foveated frames output](https://github.com/BetelhemNebebe/Sounds_interesting/blob/a44a80e13822d1f69a287d25e20e636e640b0697/NeVA.py#L109)
+- [Path to final output video with scan path](https://github.com/BetelhemNebebe/Sounds_interesting/blob/a44a80e13822d1f69a287d25e20e636e640b0697/sounds_interesting.py#L284)
 
 ## Running Code
 
