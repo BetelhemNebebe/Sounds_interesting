@@ -164,4 +164,3 @@ dependencies:
     - websocket-client==1.5.1
     - wget==3.2
     - zipp==3.15.0
-prefix: C:\Users\betel\anaconda3\envs\sounds_interesting
