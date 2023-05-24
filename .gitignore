@@ -6,3 +6,5 @@ AudioCLIP-Full-Training.pt
 *.mp4
 *.avi
 *.png
+*.jpg
+*.txt
