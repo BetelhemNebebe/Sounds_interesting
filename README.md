@@ -18,15 +18,15 @@ The pretrained weight should be downloaded and placed under [assets](https://git
 ## Set up environment
 The required Python version is >= 3.7.
 
-The yml file for the conda environment can be found [here](https://github.com/BetelhemNebebe/Sounds_interesting/blob/master/audioclip_env.yml). This environment has all the dependencies needed to run the code. It should be downloaded, created, and activated before running the code.
+The yml file for the conda environment can be found [here](https://github.com/BetelhemNebebe/Sounds_interesting/blob/master/environment.yml). This environment has all the dependencies needed to run the code. It should be downloaded, created, and activated before running the code.
 
 **Creating the environment:**
 
-`conda env create -f audioclip_env.yml`
+`conda env create -f environment.yml`
 
 **Activating the environment:**
 
-`conda activate audioclip`
+`conda activate sounds_interesting`
 
 ## Paths that should be defined
 
