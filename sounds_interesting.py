@@ -283,6 +283,8 @@ with open('scan_paths_batch.txt', 'w') as file:
 
             output_video_name = "output_videos/output_" + file_paths[i][:-4] + ".mp4"
             clip.write_videofile(output_video_name)
+            output_audio_name = "output_videos/output_" + file_paths[i][:-4] + ".wav"
+            curr_audio_batch[i].write_audiofile(output_audio_name)
 
             sublist_scanpath.append(item_scanpath)
             sublist_loss_history.append(item_loss_history)
